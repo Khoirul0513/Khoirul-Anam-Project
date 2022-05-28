@@ -1,4 +1,4 @@
-@@ -1,10 +1,10 @@
+#KhoirulanamProjects#
 <?php
 #
 # Kode Awalan
