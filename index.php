@@ -6,7 +6,7 @@
 function cetakhello() {
   echo "Hello World";
 
-# 00110287  
 }
-
+$NIM = "19112484";
+echo "My car is " . $NIM . "<br>";
 ?>
